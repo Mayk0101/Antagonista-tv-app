@@ -54,7 +54,7 @@ Se você deseja contribuir para o desenvolvimento do Antagonista TV App, siga os
    - **Evite adicionar arquivos grandes:** Para facilitar a contribuição, evite adicionar arquivos grandes ou irrelevantes ao repositório. Se necessário, use [Git LFS (Git Large File Storage)](https://git-lfs.github.com/) para gerenciar arquivos grandes.
 
 9. **Site Oficial:**
-   - Se preferir, você também pode acessar o site oficial do Antagonista TV para mais informações.
+   - Se preferir, você também pode acessar o [site antagonista tv](https://antagonistatv.site).
 
 10. **Créditos:**
     - **Desenvolvedor principal:** [Mayk0101](https://github.com/Mayk0101)
