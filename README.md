@@ -24,42 +24,38 @@ Para instalar o Antagonista TV App em seu PC, siga os passos abaixo:
 
 ## 💻 Contribuindo com o Projeto
 
-Se você deseja contribuir para o desenvolvimento do Antagonista TV App, sinta-se à vontade! Aqui estão algumas orientações para facilitar o processo de contribuição:
-
-### Passo a Passo
+Se você deseja contribuir para o desenvolvimento do Antagonista TV App, siga os passos abaixo:
 
 1. **Faça um Fork do repositório:**
    - Vá até [https://github.com/Mayk0101/Antagonista-tv-app](https://github.com/Mayk0101/Antagonista-tv-app) e clique em "Fork" para criar uma cópia do repositório em sua conta.
 
 2. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/SEU_USUARIO/Antagonista-tv-app.git
-   
+   Execute o comando: `git clone https://github.com/SEU_USUARIO/Antagonista-tv-app.git`
+
 3. **Crie uma nova branch:**
- ```bash
-   git checkout -b minha-nova-branch
+   Execute o comando: `git checkout -b minha-nova-branch`
 
 4. **Faça suas alterações:**
-Trabalhe nas suas alterações no código e, quando terminar, adicione os arquivos modificados:
-```bash
-   git add .
+   Trabalhe nas suas alterações no código e, quando terminar, adicione os arquivos modificados:
+   Execute o comando: `git add .`
 
 5. **Comite suas alterações:**
-Faça um commit com uma mensagem clara e objetiva:
-```bash
-git commit -m "Descrição das alterações"
+   Faça um commit com uma mensagem clara e objetiva:
+   Execute o comando: `git commit -m "Descrição das alterações"`
 
 6. **Envie suas alterações para o repositório remoto:**
-```bash
-git push origin minha-nova-branch
+   Execute o comando: `git push origin minha-nova-branch`
 
 7. **Abra um Pull Request (PR):**
-Vá até o repositório no GitHub e abra um Pull Request para que possamos revisar suas alterações.
-Requisitos para Contribuir:
-Mantenha os créditos do desenvolvedor: Por favor, não remova ou altere os créditos ao desenvolvedor principal no código ou em qualquer parte do projeto.
-Evite adicionar arquivos grandes: Para facilitar a contribuição, evite adicionar arquivos grandes ou irrelevantes ao repositório. Se necessário, use Git LFS (Git Large File Storage) para gerenciar arquivos grandes.
-Site Oficial:
-Se preferir, você também pode acessar o site oficial do Antagonista TV para mais informações.
-Créditos:
-Desenvolvedor principal: Mayk0101
-Desde já, agradeço por usar o Antagonista TV App! Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato.
+   - Vá até o repositório no GitHub e abra um Pull Request para que possamos revisar suas alterações.
+
+8. **Requisitos para Contribuir:**
+   - **Mantenha os créditos do desenvolvedor:** Por favor, não remova ou altere os créditos ao desenvolvedor principal no código ou em qualquer parte do projeto.
+   - **Evite adicionar arquivos grandes:** Para facilitar a contribuição, evite adicionar arquivos grandes ou irrelevantes ao repositório. Se necessário, use [Git LFS (Git Large File Storage)](https://git-lfs.github.com/) para gerenciar arquivos grandes.
+
+9. **Site Oficial:**
+   - Se preferir, você também pode acessar o site oficial do Antagonista TV para mais informações.
+
+10. **Créditos:**
+    - **Desenvolvedor principal:** [Mayk0101](https://github.com/Mayk0101)
+    - Desde já, agradeço por usar o Antagonista TV App! Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato.
