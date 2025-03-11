@@ -34,3 +34,32 @@ Se você deseja contribuir para o desenvolvimento do Antagonista TV App, sinta-s
 2. **Clone o repositório:**
    ```bash
    git clone https://github.com/SEU_USUARIO/Antagonista-tv-app.git
+   
+3. **Crie uma nova branch:**
+ ```bash
+   git checkout -b minha-nova-branch
+
+4. **Faça suas alterações:**
+Trabalhe nas suas alterações no código e, quando terminar, adicione os arquivos modificados:
+```bash
+   git add .
+
+5. **Comite suas alterações:**
+Faça um commit com uma mensagem clara e objetiva:
+```bash
+git commit -m "Descrição das alterações"
+
+6. **Envie suas alterações para o repositório remoto:**
+```bash
+git push origin minha-nova-branch
+
+7. **Abra um Pull Request (PR):**
+Vá até o repositório no GitHub e abra um Pull Request para que possamos revisar suas alterações.
+Requisitos para Contribuir:
+Mantenha os créditos do desenvolvedor: Por favor, não remova ou altere os créditos ao desenvolvedor principal no código ou em qualquer parte do projeto.
+Evite adicionar arquivos grandes: Para facilitar a contribuição, evite adicionar arquivos grandes ou irrelevantes ao repositório. Se necessário, use Git LFS (Git Large File Storage) para gerenciar arquivos grandes.
+Site Oficial:
+Se preferir, você também pode acessar o site oficial do Antagonista TV para mais informações.
+Créditos:
+Desenvolvedor principal: Mayk0101
+Desde já, agradeço por usar o Antagonista TV App! Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato.
