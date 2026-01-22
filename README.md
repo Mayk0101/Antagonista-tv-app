@@ -6,8 +6,6 @@
 
 **A plataforma completa de entretenimento onde você encontra tudo: filmes, séries, animes, doramas e muito mais!**
 
-[Baixar Agora](#download) • [Recursos](#recursos) • [Comunidade](#comunidade)
-
 </div>
 
 ---
