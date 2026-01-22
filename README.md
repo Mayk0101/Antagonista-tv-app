@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://ik.imagekit.io/Mayk/icone-teste_XvggZqpvY.png?updatedAt=1766948759476" width="120" alt="Antagonista TV Logo">
+<img src="https://ik.imagekit.io/Mayk/icone-teste_XvggZqpvY_15mA_LOZD.png" width="120" alt="Antagonista TV Logo">
 
 **A plataforma completa de entretenimento onde você encontra tudo: filmes, séries, animes, doramas e muito mais!**
 
@@ -14,7 +14,7 @@
 
 ## 📱 Sobre o Antagonista TV
 
-Antagonista TV é um **indexador multimídia completo** que reúne todo tipo de conteúdo de entretenimento em um só lugar. Desde blockbusters até produções independentes, passando por transmissões ao vivo, nossa plataforma oferece uma experiência única e integrada.
+Antagonista TV é um **indexador multimídia completo** que reúne todo tipo de conteúdo de entretenimento em um só lugar. Nossa plataforma oferece uma experiência única e integrada.
 
 Com interface intuitiva e recursos comunitários avançados, Antagonista TV é muito mais que um app de streaming — é uma comunidade de fãs de entretenimento!
 
@@ -34,7 +34,7 @@ Com interface intuitiva e recursos comunitários avançados, Antagonista TV é m
 ## ⭐ Recursos Principais
 
 ### 🎞️ Sistema de Reels
-A comunidade pode criar e compartilhar vídeos curtos. Mostre seu conteúdo, ganhe seguidores e faça parte da nossa comunidade criativa!
+A comunidade pode criar e compartilhar vídeos curtos. Mostre seu conteúdo e faça parte da nossa comunidade criativa!
 
 ### 💬 Chat Privado
 Converse com seus amigos de forma segura e privada. Discussões livres, sem limitações, diretamente dentro do app.
@@ -50,8 +50,6 @@ Crie suas próprias listas de favoritos e organize seu conteúdo.
 
 ---
 
-## 📸 Galeria do App
-
 ![Captura de Tela - Antagonista TV](https://ik.imagekit.io/Mayk/Captura_de_Tela__1296__l4_K8wuiR.png)
 
 ---
@@ -65,7 +63,7 @@ Crie suas próprias listas de favoritos e organize seu conteúdo.
 **Acesse nossa comunidade no Discord:** [discord.gg/gTpzWvgvfG](https://discord.gg/gTpzWvgvfG)
 
 ### Requisitos
-- Sistema Operacional: Windows, Linux, macOS ou Android
+- Sistema Operacional: Windows ou Android
 - Espaço: ~150MB
 - Conexão com a Internet
 
