@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Antagonista TV Logo](https://ik.imagekit.io/Mayk/icone-teste_XvggZqpvY.png?updatedAt=1766948759476)
+<img src="https://ik.imagekit.io/Mayk/icone-teste_XvggZqpvY.png?updatedAt=1766948759476" width="120" alt="Antagonista TV Logo">
 
 **A plataforma completa de entretenimento onde você encontra tudo: filmes, séries, animes, doramas e muito mais!**
 
@@ -65,7 +65,7 @@ Crie suas próprias listas de favoritos e organize seu conteúdo.
 **Acesse nossa comunidade no Discord:** [discord.gg/gTpzWvgvfG](https://discord.gg/gTpzWvgvfG)
 
 ### Requisitos
-- Sistema Operacional: Android ou iOS
+- Sistema Operacional: Windows, Linux, macOS ou Android
 - Espaço: ~150MB
 - Conexão com a Internet
 
